@@ -1,3 +1,3 @@
-![[assets/ai.gif]]
-I love building software
+![](assets/ai.gif)
 
+*I love building software*
