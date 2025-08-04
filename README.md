@@ -1,3 +1,3 @@
-![](assets/ui.gif)
+![](assets/ai.gif)
 
 *I love building software*
